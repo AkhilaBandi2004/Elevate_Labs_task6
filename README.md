@@ -103,3 +103,6 @@ Make sure you have Python installed on your system.
 -   **Email**: [bandiakhilakuamri2004@gmail.com]
 -   **Location**:Visakhapatam,Andhra Pradesh ,India
 -   **GitHub**: (https://github.com/AkhilaBandi2004)
+![alt text](<"C:\Users\bandi\Downloads\image1.png">) 
+
+![alt text](<"C:\Users\bandi\Downloads\image2.png">)
